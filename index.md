@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'MattarLab'
+landing-title: 'MLab'
 description: null
 image: null
 author: null
